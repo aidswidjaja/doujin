@@ -1,2 +1,2 @@
-# doujinshi
-Self-published works by Adrian
+# Firefly's Doujin
+Self-published works by Adrian at https://doujin.adrian.id.au
