@@ -9,6 +9,10 @@ body {
     white-space: pre-wrap;
 }
 
+a:visited {
+    color: #ffffff;
+}
+
 @media only screen and (min-width: 1000px) {
     .writing {
         width: 60%;
